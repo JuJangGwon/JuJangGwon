@@ -1,4 +1,6 @@
-### Hi there 👋
+### Studying
+<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=#00599C&logo=로고&logoColor=로고색상"/></a>
+### Algorithm 👋
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrnjs913)](https://solved.ac/tlsakch510)
