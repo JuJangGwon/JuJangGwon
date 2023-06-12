@@ -36,7 +36,7 @@
  
  <br/>
  
- # 🌍Contact ME.
+ ## Contact
 <a href="https://velog.io/@tlsakch510" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
  <a href="mailto:wkdrnjs913@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
