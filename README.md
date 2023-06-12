@@ -1,7 +1,7 @@
 <div align = "center">
  
-##  👋 Hi, I'm JangGwon, FE Developer
----
+##  👋 Hi, I'm JangGwon, FE Developer 
+
 
 
  
@@ -28,12 +28,21 @@
 
  
 ---
-
+ <br/>
   
 ### 😊 Algorithm   😊 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrnjs913)](https://solved.ac/wkdrnjs913)
  
+ <br/>
+ 
+ # 🌍Contact ME.
+<a href="https://velog.io/@tlsakch510" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+ <a href="mailto:wkdrnjs913@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+ 
+ 
  </div>
+ 
 <!--
 **JuJangGwon/JuJangGwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
